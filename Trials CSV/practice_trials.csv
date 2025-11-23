@@ -1,0 +1,13 @@
+word,inkColor,congruency,cue,cueText,correctAns
+RED,green,IC,nocue,,g
+GREEN,green,C,nocue,,g
+GREEN,red,IC,cue,RED,r
+BLUE,blue,C,cue,BLUE,b
+BLUE,blue,C,nocue,,b
+RED,green,IC,cue,GREEN,g
+RED,blue,IC,nocue,,b
+GREEN,red,IC,nocue,,r
+GREEN,green,C,cue,GREEN,g
+RED,red,C,cue,RED,r
+RED,red,C,nocue,,r
+RED,blue,IC,cue,BLUE,b

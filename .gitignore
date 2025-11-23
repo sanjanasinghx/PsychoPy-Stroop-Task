@@ -1,0 +1,6 @@
+StroopTask_Final_v1_*.py
+StroopTask_Final_v1*.psyexp
+*.zip
+data/
+psychopy_traceback.txt
+.DS_Store
